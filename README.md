@@ -1,2 +1,2 @@
 # voice-recognize
-npm package
+$ npm install voice-recognize

@@ -1,0 +1,18 @@
+{
+  "name": "voice-recognize",
+  "version": "0.0.1",
+  "description": "voice recognition",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": "gaoqh",
+  "license": "MIT",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.6.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaoqh/voice-recognize.git"
+  }
+}
