@@ -77,8 +77,8 @@ VoiceRecognize = __decorate([
     Plugin({
         pluginName: 'VoiceRecognize',
         plugin: 'cordova-plugin-voicerecognize',
-        pluginRef: 'navigator.voiceRecognizer',
-        repo: '',
+        pluginRef: 'VoiceRecognize',
+        repo: 'https://github.com/gaoqh/cordova-voiceRecognize',
         platforms: ['iOS'] // Array of platforms supported, example: ['Android', 'iOS']
     })
 ], VoiceRecognize);
