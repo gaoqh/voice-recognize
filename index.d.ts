@@ -20,7 +20,7 @@ export interface VoiceRecognizeResponse {
  *
  * @usage
  * ```typescript
- * import { voice-recognize } from 'voice-recognize';
+ * import { voice-recognize } from '@ionic-native/voice-recognize';
  *
  *
  * constructor(private voice-recognize: voice-recognize) { }

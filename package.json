@@ -1,36 +1,10 @@
 {
-  "_from": "voice-recognize",
-  "_id": "voice-recognize@0.0.1",
-  "_inBundle": false,
-  "_integrity": "sha1-zEoY27jVxpkXgDSntE7kcVP8gdg=",
-  "_location": "/voice-recognize",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "voice-recognize",
-    "name": "voice-recognize",
-    "escapedName": "voice-recognize",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "http://registry.npm.taobao.org/voice-recognize/download/voice-recognize-0.0.1.tgz",
-  "_shasum": "cc4a18dbb8d5c699178034a7b44ee47153fc81d8",
-  "_spec": "voice-recognize",
-  "_where": "/Users/gaoqinghua/NpolisCheck",
   "author": {
     "name": "gaoqh"
   },
   "bugs": {
     "url": "https://github.com/gaoqh/voice-recognize/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "voice recognition",
   "homepage": "https://github.com/gaoqh/voice-recognize#readme",
   "license": "MIT",
@@ -46,5 +20,5 @@
     "url": "git+https://github.com/gaoqh/voice-recognize.git"
   },
   "typings": "index.d.ts",
-  "version": "0.0.1"
+  "version": "0.1.0"
 }
