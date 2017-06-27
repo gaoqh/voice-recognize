@@ -1,3 +1,3 @@
 # voice-recognize
-npm package
+npm package：
 npm i --save voice-recognize
